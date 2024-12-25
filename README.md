@@ -20,7 +20,6 @@ Contains daily bike demand data with features like weather, seasonality, and use
 
 ## Acknowledgements
 - Dataset provided by BoomBikes.
-- Guidance and support from the consulting team.
 
 ## Contact
 Created by Akshay Thakur - feel free to reach out!
